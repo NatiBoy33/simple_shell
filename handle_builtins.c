@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
-* handle_builtin - handles execution of builtin functions
+* handle_builtin -  handles execution of builtin functions
 * @command: tokenized commands
 * @line: input read from stdin
 *
