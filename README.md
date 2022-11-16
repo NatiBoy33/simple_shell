@@ -1,3 +1,1 @@
-# 0x16. C - Simple Shell
-
-Team Project 
+simple_shell
