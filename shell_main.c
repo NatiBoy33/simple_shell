@@ -7,7 +7,7 @@
 	int status = 0;
 
 /**
- * main - the main shell code
+ * main -the main shell code
  * @argc: number of arguments passed
  * @argv: program arguments to be parsed
  *
