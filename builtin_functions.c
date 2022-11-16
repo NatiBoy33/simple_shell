@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- *env - prints the current_environnement
+ *env -prints the current_environnement
  *@tokenized_command: command entered
  *
  *Return: void
